@@ -5,11 +5,11 @@ permalink:        pretty
 
 
 # Setup
-title:            DSSG Project Name
+title:            Washington Merged Longitudinal Administrative Data
 tagline:          ''
-description:      'A 2021 Data Science for Social Good summer fellowship project at the University of Washington' 
-url:              "https://uwescience.github.io"
-baseurl:          "/DSSG-website-template"
+description:      'A data resource of Washingtonians for Washingtonians' 
+url:              "https://j-romich.github.io"
+baseurl:          "/wmlad"
 
 
 paginate:         5
@@ -18,4 +18,4 @@ paginate:         5
 version:          0.0.0
 
 github:
-  repo:           https://github.com/uwescience/DSSG-website-template/
+  repo:           https://github.com/j-romich/wmlad/
